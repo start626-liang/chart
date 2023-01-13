@@ -1,5 +1,5 @@
 import * as d3 from 'd3'
-import $ from '@js/util/jq-3.6.0.js'
+import $ from '../jq-3.6.0.js'
 let dataLength = 0
 let _data = null
 const hintClassName = '.xxxxx-hint'
